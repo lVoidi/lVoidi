@@ -2,10 +2,11 @@
 
 -----
 
-```
-  
-                                  Aprendiendo → ☕ -- java  | 🐍 -- python  | 
-```
+<div align="center">  
+Aprendiendo → ☕ -- java  | 🐍 -- python  | 
+</div>
+
+-----
 
 <h2>Estadisticas</h2>
 
