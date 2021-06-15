@@ -18,7 +18,7 @@ Aprendiendo → ☕ -- java  | 🐍 -- python  |
 </div>
   
   
- <h2>Lenguajes mas usados</h2>
+ <h2 align="center">Lenguajes mas usados</h2>
 
 -----
 <div align="center">
