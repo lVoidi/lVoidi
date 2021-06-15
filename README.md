@@ -8,18 +8,20 @@ Aprendiendo → ☕ -- java  | 🐍 -- python  |
 
 -----
 
-<h2>Estadisticas</h2>
+<h2 align="center">Estadisticas</h2>
 
 -----
-
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark" />
 </a>
-
+</div>
   
   
  <h2>Lenguajes mas usados</h2>
 
 -----
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvoidi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
