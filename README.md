@@ -2,7 +2,7 @@
 
 
 <div align="center">  
-Aprendiendo → ☕ -- java  | 🐍 -- python  | 
+Aprendiendo → + -- c++  | 🐍 -- python  | 
 </div>
 
 
