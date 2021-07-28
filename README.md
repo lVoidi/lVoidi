@@ -12,7 +12,7 @@ Aprendiendo → + -- c++  | 🐍 -- python  |
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lvoidi&show_icons=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sta7ix&show_icons=true&theme=onedark" />
 </a>
 </div>
   
@@ -23,5 +23,5 @@ Aprendiendo → + -- c++  | 🐍 -- python  |
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvoidi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sta7ix&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
