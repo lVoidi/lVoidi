@@ -21,8 +21,14 @@
  
  <h2 align="center">Most used langs</h2>
 
-
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrjakesir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+-----
+<div align="center">
+<h2>My personalized linux setup</h2>
+  <img src="https://preview.redd.it/slhul444kgf71.png?width=640&crop=smart&auto=webp&s=5da121c7dbe662c92d84e77039b596238a1516f8">
+ <h3>Find the dotfiles <a href="https://github.com/MrJakeSir/dots/tree/dotsbian">here</a></h3>
 </div>
