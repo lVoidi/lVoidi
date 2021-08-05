@@ -2,7 +2,7 @@
 
 
 <div align="center">  
-Aprendiendo → + -- c++  | 🐍 -- python  | 
+Currently learning → + -- c++  
 </div>
 
 
