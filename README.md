@@ -1,6 +1,7 @@
 # Hey! welcome to my github! 👋
-I'm a 15yo open source developer that develop unnecessary things **just for hobby**!
-I aspire to become a software engineer, specialized in artificial intelligence 😄
+- I'm a 15yo open source developer that develop unnecessary things **just for hobby**!  💻
+- I aspire to become a software engineer, specialized in artificial intelligence 😄  
+- I love open source and any linux-related topic 🐧
 
 ### 📊 Languages and technologies
 
@@ -23,3 +24,12 @@ Text Editors | ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&styl
 Photo editing | ![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
 :--- | :---
 OS | ![tux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arch BTW](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+
+### 📊 My stats
+![Counter](https://komarev.com/ghpvc/?username=mrjakesir&color=156CAC&style=flat-square)
+---
+
+**Stats** | ![Stats](https://github-readme-stats.vercel.app/api?username=mrjakesir&theme=onedark&show_icons=true&hide_border=true&count_private=true)
+:---|:---
+**__Most Used Langs__** |![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrjakesir&theme=onedark&show_icons=true&hide_border=true&layout=compact)
+
