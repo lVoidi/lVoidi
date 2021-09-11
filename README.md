@@ -26,7 +26,7 @@ Photo editing | ![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-b
 OS | ![tux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arch BTW](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 ### 📊 My stats
-![Counter](https://komarev.com/ghpvc/?username=mrjakesir&color=156CAC&style=flat-square)
+![Counter](https://komarev.com/ghpvc/?username=mrjakesir&color=1b1f27&style=flat-square)
 ---
 
 **Stats** | ![Stats](https://github-readme-stats.vercel.app/api?username=mrjakesir&theme=onedark&show_icons=true&hide_border=true&count_private=true)
