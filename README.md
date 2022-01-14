@@ -1,5 +1,5 @@
 # Hey! welcome to my github! 👋
-- I'm a 15yo open source developer that develop unnecessary things **just for hobby**!  💻
+- I'm a 16 yo open source developer that develop unnecessary things **just for hobby**!  💻
 - I aspire to become a software engineer, specialized in artificial intelligence 😄  
 - I love open source and any linux-related topic 🐧
 
