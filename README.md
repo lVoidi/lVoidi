@@ -1,7 +1,5 @@
 # Hey! welcome to my github! 👋
-- I'm a 16 yo open source developer that develop unnecessary things **just for hobby**!  💻
-- I aspire to become a software engineer, specialized in artificial intelligence 😄  
-- I love open source and any linux-related topic 🐧
+I'm a self-taught programmer that doesn't really specialize in something, i just program because it's my hobbie. I like linux, python and computers in general. I would like to specialize in AI!
 
 ### 📊 Languages and technologies
 
