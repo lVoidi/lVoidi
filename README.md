@@ -1,4 +1,4 @@
-# Hey! welcome to my github! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines= ∇+lVoidi+Linux+User;Δ+lVoidi+Python+Programmer)](https://git.io/typing-svg)
 I'm a self-taught programmer that doesn't really specialize in something, i just program because it's my hobbie. I like linux, python and computers in general. I would like to specialize in AI!
 
 ### 📊 Languages and technologies
