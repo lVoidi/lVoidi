@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines= ∇+lVoidi+Linux+User;Δ+lVoidi+Python+Programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F4EFF7&width=435&lines=%CE%94+lVoidi%2C+a+Python+programmer;+%E2%88%87+lVoidi%2C+a+Linux+User)](https://git.io/typing-svg)
 I'm a self-taught programmer that doesn't really specialize in something, i just program because it's my hobbie. I like linux, python and computers in general. I would like to specialize in AI!
 
 ### 📊 Languages and technologies
