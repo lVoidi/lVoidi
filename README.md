@@ -33,7 +33,6 @@ OS | ![tux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=l
 ### 📊 My stats
 ![Counter](https://komarev.com/ghpvc/?username=mrjakesir&color=1b1f27&style=flat-square)
 
-
 ---
 
 **Stats** | ![Stats](https://github-readme-stats.vercel.app/api?username=lvoidi&theme=onedark&show_icons=true&hide_border=true&count_private=true)
