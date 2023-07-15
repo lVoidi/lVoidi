@@ -35,6 +35,6 @@ OS | ![tux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=l
 
 ---
 
-**-** | trophies
+**-** | Trophies
 :---|:---
 **__Achievements__**|[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
