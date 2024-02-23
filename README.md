@@ -2,12 +2,6 @@
 
 I'm a 17yo self-taught programmer that doesn't really specialize in something, i just program because it's my hobbie. I like linux, python and computers in general. I would like to specialize in DevOps! Graduated from SNCCCR. I also love math. Currently learning Blender and Rust. i have knowlegde in Gimp, Photoshop and Davinci Resolve 17. 
 
-### Buy me a coffee!
-
-<a href="https://ko-fi.com/lvoidi" target="_blank">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)">
-</a>
-
 ### 📊 Languages and technologies
 
 ---
