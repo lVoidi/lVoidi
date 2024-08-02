@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F4EFF7&width=435&lines=%CE%94+lVoidi%2C+a+Python+programmer;+%E2%88%87+lVoidi%2C+a+Linux+User)](https://git.io/typing-svg)
 
-Computer Engineering in ITCR. I'm a 18yo self-taught programmer, i just program because it's my hobbie. I like linux, python and DevOps. I love LaTex and research. If i see something, i must automatize it! I like to work circuit-wise, worked with Arduino Uno and Raspberry Pi Pico W. I love rocketry and have experience using OpenRocket. Former set theory enjoyer. I will go to the moon soon! 👾 🚀 🌙
+Computer Engineering in ITCR. I'm a 18yo self-taught programmer, i just program because it's my hobbie. I like linux, python and DevOps. I love LaTex and research. If i see something, i must automatize it! I like to work circuit-wise, worked with Arduino Uno and Raspberry Pi Pico W. I love rocketry and have experience using OpenRocket. Former set theory enjoyer. I will go to the moon soon! 👾 🚀 🌙. Web3 and Rust enjoyer, ETH investor.
 
 ### 📊 Languages and technologies
 
