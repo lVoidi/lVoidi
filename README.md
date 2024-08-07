@@ -13,14 +13,14 @@ I am experienced on | ![Python](https://img.shields.io/badge/python-%233776AB.sv
 ---
 IDE's | ![Pycharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) 
 :--- | :---
-Text Editors | ![Vim](https://img.shields.io/badge/Vim-%2357A143.svg?&style=for-the-badge&logo=vim&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+Text Editors | ![Vim](https://img.shields.io/badge/Vim-%2357A143.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
 ### ⚙️ Other
 
 ---
 Photo editing | ![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
 :--- | :---
-OS | ![tux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arch BTW](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+OS | ![tux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arch BTW](https://img.shields.io/badge/Gentoo_Linux-61538D?style=for-the-badge&logo=gentoo&logoColor=DDDFFF)
 
 ### 📊 My stats
 ![Counter](https://komarev.com/ghpvc/?username=mrjakesir&color=1b1f27&style=flat-square)
