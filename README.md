@@ -20,7 +20,7 @@ Text Editors | ![Vim](https://img.shields.io/badge/Vim-%2357A143.svg?&style=for-
 ---
 Photo editing | ![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
 :--- | :---
-OS | ![tux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arch BTW](https://img.shields.io/badge/Gentoo_Linux-61538D?style=for-the-badge&logo=gentoo&logoColor=DDDFFF)
+OS | ![tux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Gentoo BTW](https://img.shields.io/badge/Gentoo_Linux-61538D?style=for-the-badge&logo=gentoo&logoColor=DDDFFF)
 
 ### 📊 My stats
 ![Counter](https://komarev.com/ghpvc/?username=mrjakesir&color=1b1f27&style=flat-square)
