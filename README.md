@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?pause=1000&color=F3A0F7&width=435&lines=If+it+moves%2C+compile+it;Ad+astra;Just+another+node+in+this+world)](https://git.io/typing-svg)
 
-2nd year Computer Engineering in ITCR. I'm a 19yo self-taught programmer, i just program because it's my hobbie. I like linux, python and electronics. I love LaTex and research.Worked with Arduino and Raspberry Pi Pico W and Raspberry Pi 5. I love rocketry. Set theory enjoyer.
+2nd year Computer Engineering in ITCR. I'm a 19yo self-taught programmer, i just program because it's my hobbie. I like linux, python and electronics. I love LaTex and research. Worked with Arduino, Raspberry Pi Pico W and Raspberry Pi 5. I love rocketry. Set theory enjoyer.
 
 ### 📊 My stats
 ![](https://github-readme-stats.vercel.app/api?username=lvoidi&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)
