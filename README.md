@@ -4,3 +4,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)  
 ![Counter](https://komarev.com/ghpvc/?username=mrjakesir&color=1b1f27&style=flat-square)
 
+![hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=5800&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
